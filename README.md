@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -741,3 +742,9 @@ Email verification helps our support team verify ownership if you lose account a
   </body>
 </html>
 
+=======
+datasciencecoursera
+===================
+
+Coursera test repository
+>>>>>>> 5d1832bb92dcc1c072f923ab4d193bf7a3129416
